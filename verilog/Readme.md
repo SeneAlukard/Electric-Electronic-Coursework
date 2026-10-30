@@ -49,8 +49,8 @@ brew install make
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/SeneAlukard/verilog.git
-cd verilog
+git clone https://github.com/SeneAlukard/Electric-Electronic-Coursework.git
+cd Electric-Electronic-Coursework/verilog
 ```
 
 2. Make the script executable:
